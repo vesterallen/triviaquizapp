@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mainImage" type="id">mainActImage</item>
+    <item name="mainExit" type="id">mainExitButton</item>
+    <item name="mainStart" type="id">mainStartButton</item>
+    <item name="quizPicture" type="id" />
+    <item name="questionText" type="id" />
+    <item name="ansRadioGroup" type="id" />
+    <item name="previous" type="id" />
+    <item name="next" type="id" />
+    <item name="finish" type="id">Finish</item>
+    <item name="progress" type="id" />
+    <item name="Progress" type="id" />
+    <item name="progressPercent" type="id" />
+    <item name="performanceBar" type="id" />
+</resources>

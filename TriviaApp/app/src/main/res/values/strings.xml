@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+    <string name="mainEx">Exit</string>
+    <string name="startQ">Start Trivia</string>
+    <string name="questNo" />
+    <string name="timeLeft">Time Left:</string>
+    <string name="timeInSecs" />
+    <string name="quesText" />
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="yourPerf">Your Performance:</string>
+    <string name="corrAns">Correct answers</string>
+    <string name="finsh">Finish</string>
+    <string name="prog" />
+</resources>
